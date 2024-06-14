@@ -18,6 +18,3 @@ This Django-based web application allows users to upload CSV files, perform data
 - `static/`: Directory for static files like CSS, JavaScript, etc.
 - `templates/`: Directory for HTML templates.
 
-## Sample CSV File
-
-A sample CSV file named `sample_data.csv` is provided in the repository for testing purposes.
